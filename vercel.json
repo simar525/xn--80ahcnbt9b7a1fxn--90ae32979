@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://meditacia.bg/$1"
+ }
+  ]
+}
